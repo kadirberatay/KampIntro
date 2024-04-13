@@ -14,6 +14,8 @@ namespace DegerVeReferansTipler
 			sayi2 = 65;
 			//sayi1 ??
 			Console.WriteLine(sayi1);
+
+
 		}
 	}
 }
